@@ -1,0 +1,8 @@
+Started by user [8mha:////4CkkuyjuGBj4CAzmR07L124oNfMS6msXxixbMWBhvScMAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZu/dLi1CL9xJTczDwACG0V4sAAAAA=[0mjenkins admin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-first-job
+[my-first-job] $ /bin/sh -xe /tmp/jenkins6299482177797994627.sh
++ /tmp/script.sh jon Goofy true
+/tmp/script.sh: line 6: [: missing `]'
+If you want see name, mark option
+Finished: SUCCESS

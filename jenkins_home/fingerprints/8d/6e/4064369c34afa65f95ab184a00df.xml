@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-12-02 17:21:38.273 UTC</timestamp>
+  <md5sum>8d6e4064369c34afa65f95ab184a00df</md5sum>
+  <fileName>Credential id=AWS_SWCRET_KEY name=The value amazon gave us</fileName>
+  <usages>
+    <entry>
+      <string>backup-to-aws</string>
+      <ranges>1-2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

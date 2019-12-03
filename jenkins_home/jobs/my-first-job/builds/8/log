@@ -1,0 +1,8 @@
+Started by user [8mha:////4CkkuyjuGBj4CAzmR07L124oNfMS6msXxixbMWBhvScMAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZu/dLi1CL9xJTczDwACG0V4sAAAAA=[0mjenkins admin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-first-job
+[my-first-job] $ /bin/sh -xe /tmp/jenkins5495777396825355216.sh
++ /tmp/script.sh jon Smith true
+/tmp/script.sh: line 10: syntax error: unexpected end of file
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
